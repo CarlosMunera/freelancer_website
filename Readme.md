@@ -2,7 +2,8 @@
 ![Alt text](img/preview.PNG)
 
 ## Descripción del proyecto
-Landing page - curriculum
+* Landing page - curriculum.
+* [Ver Proyecto](https://carlosmunera.github.io/freelancer_website/)
 
 ## Tecnología Utilizada
 * HTML5 semántico.
